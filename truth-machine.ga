@@ -1,0 +1,9 @@
+1
+copy
+if
+goto 7
+printnum
+goto 999
+copy
+printnum
+goto 7
